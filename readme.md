@@ -10,7 +10,7 @@ Repositorio de códigos do bootcamp de ED de Jun/21
 * André Sionek
 * Rhuan Lima
 
-## Calendario
+## Agenda
 
 Encontros: Terças-feiras das 19:30 às 22:00. Ao vivo via Zoom.
 
