@@ -6,5 +6,6 @@ Repositorio de códigos do bootcamp de ED de Jun/21
 
 ## Facilitadroes
 
+* HOW
 * André Sionek
 * Rhuan Lima
